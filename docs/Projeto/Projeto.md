@@ -1,33 +1,66 @@
-** Projetos - Período   2025.1
+## **Projetos - Período 2025.1**
 
-Segue a lista de projetos desse período letivo:
+Segue a lista de projetos deste período letivo:
 
-    • G1 até 10 membros
-    • Projeto G1 - Embarcado, baseado em uma Biblioteca de Integração ou alguma automação, no contexto, por exemplo, do Arduíno.
-    • Não usar o nome de uma biblioteca real. A ideia é usar o nome G1_Embarcado mesmo, e apenas se basear em uma comunidade especializada para fins de identificar um problema no contexto de embarcados, o público-alvo, principais funcionalidades, dentre outros detalhes. Não pegar algo pronto. Pensar em uma proposta nova.
+---
 
-    • G2 até 10 membros
-    • Projeto G2 - PinacotecaOnline, baseado em sites de Pinacotecas Virtuais, podendo ser em versão site, desktop ou aplicativo móvel.
-    • Não usar o nome de uma pinacoteca real. A ideia é usar o nome G2_PinacotecaOnline mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+### • G1 – até 10 membros  
+**Projeto G1 - Jogo Educacional**  
+Baseado em qualquer jogo para inspiração, podendo ser em versão site, desktop ou aplicativo móvel.  
+**Atenção:** não usar o nome de um jogo real. A ideia é usar o nome **G1_JogoEducacional**, e apenas se basear em um jogo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes. **Não pegar algo pronto**. Pensar em uma proposta nova.
 
-    • G3 até 10 membros
-    • Projeto G3 - EuMeAmo, baseado em sites e/ou materiais informativos sobre cuidados gerais com postura, exercícios físicos regulares, e outros. Pode ser em versão site, desktop ou aplicativo móvel.
-    • Não usar o nome do site real. A ideia é usar o nome G3_EuMeAmo mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+---
 
-    • G4 até 10 membros
-    • Projeto G4 - QuemFazNiver_GostaDe, baseado em qualquer inspiração envolvendo aniversários, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, a dica é conferir, além de uma simples agenda de aniversários, também sugestões de presentes, temas de festa, dentre outros itens personalizados para quem faz aniversário.
-    • Não usar o nome do site real. A ideia é usar o nome G4_QuemFazNiver_GostaDe mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+### • G2 – até 10 membros  
+**Projeto G2 - Museu Virtual**  
+Baseado em sites de museus virtuais, podendo ser em versão site, desktop ou aplicativo móvel.  
+Não usar o nome de um museu real. A ideia é usar o nome **G2_MuseuVirtual**, apenas se baseando em algo conhecido para identificar público-alvo, funcionalidades, entre outros detalhes.
 
-    • G5 até 10 membros
-    • Projeto G5 - MundoMusical, sendo um Jogo para Aprendizado sobre Teoria e Prática Musical, baseado sites e materiais didáticos sobre música, podendo ser em versão site, desktop ou aplicativo móvel. 
-    • Não usar o nome de algo real. A ideia é usar o nome G5_MundoMusical mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+---
 
-    • G6 até 10 membros
-    • Projeto G6 - FCTEDesapega, baseado em sites de anúncio de algo que não interessa mais para alguém, mas pode ser valoroso para outros, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, espera-se um software mirado na comunidade FCTE, com possibilidade de anúncios de algo que não mais é desejado, suas características, valor ou doação ou troca, dentre outros.
-    • Não usar o nome de algo real. A ideia é usar o nome G6_FCTEDesapega mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+### • G3 – até 10 membros  
+**Projeto G3 - Plante Você Mesmo**  
+Baseado em sites de paisagismo, Embrapa ou similares, podendo ser em versão site, desktop ou aplicativo móvel.  
+Não usar o nome de um site real. A ideia é usar o nome **G3_PlanteVcMesmo**, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, entre outros detalhes.
 
-    • G7 até 10 membros
-    • Projeto G7 - FCTEPodcast, baseado em um software contendo podcasts, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, espera-se um software mirado na comunidade FCTE, com possibilidade de postagens de podcasts educacionais, explicando tópicos de diferentes matérias por parte dos docentes, monitores, discentes e convidados da comunidade.
-    • Não usar o nome de algo real. A ideia é usar o nome G7_FCTEPodcast mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
+---
 
-OBS: Caso existam novos matriculados na disciplina, acima de 70 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
+### • G4 – até 10 membros  
+**Projeto G4 - Agenda Cultural FCTE**  
+Baseado em sites de divulgação de eventos culturais, podendo ser em versão site, desktop ou aplicativo móvel.  
+A ideia é que seja algo de cunho informativo sobre eventos culturais que ocorrem na FCTE.  
+Não usar o nome de um site real. Usar o nome **G4_AgendaCulturalFCTE**.
+
+---
+
+### • G5 – até 10 membros  
+**Projeto G5 - Eu Sei, Quero Compartilhar**  
+Baseado em cenários de compartilhamento de conhecimento (ex: artesanato, costura, dobradura, desenho, linguagem de programação etc.), podendo ser em versão site, desktop ou aplicativo móvel.  
+Não usar o nome de algo real. A ideia é usar o nome **G5_EuSei_QueroCompartilhar**, apenas como inspiração para identificar o público-alvo, principais funcionalidades, entre outros.
+
+---
+
+### • G6 – até 10 membros  
+**Projeto G6 - Café & Cia**  
+Baseado em qualquer contexto que envolva o mundo do café, podendo ser em versão site, desktop ou aplicativo móvel.  
+Espera-se um software voltado à comunidade de apreciadores de café, com compartilhamento de métodos, cafés diferenciados, equipamentos, dicas etc.  
+Não usar o nome de algo real. A ideia é usar o nome **G6_CaféECia**.
+
+---
+
+### • G7 – até 10 membros  
+**Projeto G7 - Planetário Virtual**  
+Baseado em sites de planetários e fóruns da comunidade de astronomia, podendo ser em versão site, desktop ou aplicativo móvel.  
+Não usar o nome de planetários reais. A ideia é usar o nome **G7_PlanetárioVirtual**.
+
+---
+
+### • G8 – até 10 membros  
+**Projeto G8 - Meu Aquário**  
+Baseado em sites e fóruns da comunidade de aquarismo, podendo ser em versão site, desktop ou aplicativo móvel.  
+A ideia é permitir que usuários compartilhem experiências, apresentem seus aquários, troquem dicas e conhecimentos.  
+Não usar o nome de algo real. Usar o nome **G8_MeuAquário**.
+
+---
+
+**OBS:** Caso existam novos matriculados na disciplina, totalizando mais de 80 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, é necessário conversar com a professora na época.
