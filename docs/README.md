@@ -34,4 +34,8 @@ A Eterna FGA é um museu afetivo virtual, uma aplicação web criada para eterni
 
 (X) NÃO
 
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 08/04/2025  | Versão inicial do README. | Cairo | 10/04/2025 | Edilson |
 
