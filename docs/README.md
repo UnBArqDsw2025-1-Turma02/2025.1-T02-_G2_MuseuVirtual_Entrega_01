@@ -1,41 +1,37 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T01)_G1_Embarcado_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Eterna FGA
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 02<br>
 **Entrega**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+| Matrícula | Aluno                                   | Github |
+| --------- | --------------------------------------- | --------- |
+| 222014975 | Cairo Florenço Santos                   | [CA1RO](https://github.com/CA1RO) |
+| 222024461 | Edilson Ribeiro da Cruz Júnior          | [edilson-r-jr](https://github.com/edilson-r-jr)|
+| 222015112 | Gabriel Reis Scheidt Paulino            | [Gxaite](https://github.com/Gxaite)|
+| 222024793 | Gustavo Feitosa Haubert                 | [GustavoHaubert](https://github.com/GustavoHaubert)|
+| 222021890 | Manuella Magalhães Valadares            | [manuvaladares](https://github.com/manuvaladares)|
+| 222021906 | Marcos Vieira Marinho                   | [devMarcosVM](https://github.com/devMarcosVM)|
+| 222006973 | Marcus Vinícius Figuerêdo Escobar       | [MarcusEscobar](https://github.com/MarcusEscobar)|
+| 222025950 | Mateus Henrique Queiroz Magalhães Sousa | [Mateushqms](https://github.com/Mateushqms)|
+| 222026386 | Pedro Gois Marques Monteiro             | [Goizzz](https://github.com/Goizzz)|
+| 222021933 | William Bernardo da Silva               | [WillxBernardo](https://github.com/willxbernardo)|
+
+## Sobre
+
+A Eterna FGA é um museu afetivo virtual, uma aplicação web criada para eternizar as memórias da comunidade acadêmica. Nele, qualquer pessoa da comunidade pode enviar suas imagens, compartilhar suas histórias e conhecer um pouco mais sobre as pessoas que fazem parte do cotidiano da faculdade.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+![alt text](/imagens/mapamental.png)
+![alt text](/imagens/bpmn1.png)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
