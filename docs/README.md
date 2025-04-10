@@ -25,8 +25,8 @@ A Eterna FGA é um museu afetivo virtual, uma aplicação web criada para eterni
 
 ## Screenshots da Primeira Entrega
 
-<img src='/imagens/mapamental.png'></img>
-<img src='/imagens/bpmn1.png'></img>
+<img src='imagens/mapamental.png'></img>
+<img src='imagens/bpmn1.png'></img>
 
 ## Há algo a ser executado?
 
