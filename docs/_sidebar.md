@@ -7,7 +7,7 @@
     - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
       - [1.1.1. Map & Unpack](Base/1.1.1.Map.md)
       - [1.1.2. Decision](Base/1.1.2.Decision.md)
-      - [1.1.3. Sketch](Base/1.1.3.Sketch.md.md)
+      - [1.1.3. Sketch](Base/1.1.3.Sketch.md)
       - [1.1.5. Test](Base/1.1.5.Test.md)
     - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
         - [1.2.1. 5W2H](Base/1.2.1%205W2H.md)
