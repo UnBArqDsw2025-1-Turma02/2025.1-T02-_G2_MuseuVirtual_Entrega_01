@@ -24,8 +24,7 @@
 A Eterna FGA é um museu afetivo virtual, uma aplicação web criada para eternizar as memórias da comunidade acadêmica. Nele, qualquer pessoa da comunidade pode enviar suas imagens, compartilhar suas histórias e conhecer um pouco mais sobre as pessoas que fazem parte do cotidiano da faculdade.
 
 ## Screenshots da Primeira Entrega
-
-<img src='imagens/mapamental.png'></img>
+<img src='imagens/miro.png'></img>
 <img src='imagens/bpmn1.png'></img>
 
 ## Há algo a ser executado?
